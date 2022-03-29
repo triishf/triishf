@@ -3,10 +3,10 @@
 <div align="center"> <h6> <i>✔️ Atualmente cursando Análise e Desenvolvimento de Sistemas.<p>
   ✔️ Focando na área de Front-End e Segurança da Informação.</i> </h6> </div>
   
-  <div align="center">
+   <div align="center">
   <a href="https://github.com/triishf">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=triishf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triishf&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="188em" src="https://github-readme-stats.vercel.app/api?username=triishf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ 
 </div>
   
   ##
@@ -21,6 +21,7 @@
   
   <div align="center">
     <img align="center" alt="gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97262077/160721471-1a6a90a2-6883-4e65-ae47-aafdbfdafe34.gif"> </div>
+    
   
   
   
