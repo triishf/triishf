@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/triishf/"><img width="80%" src="https://user-images.githubusercontent.com/97262077/160715989-8860460b-8cec-4744-9a6d-569131d51ba7.png" /></a></p>
 
-<div align="center"> <h6> <i>✔️ Atualmente cursando Análise e Desenvolvimento de Sistemas.<p>
-  ✔️ Focando na área de Front-End e Segurança da Informação.</i> </h6> </div>
+<div align="center"> <h6> <i>• Atualmente cursando Análise e Desenvolvimento de Sistemas.<p>
+  • Focando na área de Front-End e Segurança da Informação.</i> </h6> </div>
   
    <div align="center">
   <a href="https://github.com/triishf">
