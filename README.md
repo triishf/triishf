@@ -1,7 +1,7 @@
-<p align="center"><a href="https://www.linkedin.com/in/triishf/"><img width="80%" src="https://user-images.githubusercontent.com/97262077/160715989-8860460b-8cec-4744-9a6d-569131d51ba7.png" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/triishf/"><img width="80%" src="https://user-images.githubusercontent.com/97262077/166660603-558fe896-776d-461e-ad97-f527b68851ec.png" /></a></p>
 
-<div align="center"> <h6> <i>• Atualmente cursando Análise e Desenvolvimento de Sistemas.<p>
-  • Focando na área de Front-End e Segurança da Informação.</i> </h6> </div>
+<div align="center"> <h5> <i>• Atualmente cursando Análise e Desenvolvimento de Sistemas.<p>
+  • Focando na área de Front-End e Segurança da Informação.</i> </h5> </div>
   
    <div align="center">
   <a href="https://github.com/triishf">
@@ -21,7 +21,7 @@
   </div>
   
   <div align="center">
-    <img align="center" alt="gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97262077/160721471-1a6a90a2-6883-4e65-ae47-aafdbfdafe34.gif"> </div>
+    <img align="center" alt="gif" height="155" style="border-radius: 100px;" src="https://user-images.githubusercontent.com/97262077/166664198-04441684-e54b-4032-8774-97cae07a5e4f.gif"> </div>
     
   
   
